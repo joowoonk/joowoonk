@@ -28,6 +28,7 @@ Find me around the web:
 <li>Follow me on Twitter: <a target="_blank" href="https://twitter.com/johnwhoprograms">
     @johnwhoprograms </a> 💙
     <li>LinkedIn Profile: <a target="_blank" href="https://www.linkedin.com/in/joowoonk/">@joowoonk</a> 📄 </li>
+    <li>Resume: <a target="_blank" href="https://drive.google.com/file/d/1SMfAylPnbsnbL_FfRlCC7QfGmS7ccZVG/view">Here</a> 🤺 </li>
 </ul>
 
 <hr/>
