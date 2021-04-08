@@ -21,7 +21,7 @@ Hello <span>👋🏼👨‍💻</span>
 <p>- ⚡ Fun fact: mastered Calculus 1 & 2 in three to four months while working full time as an accountant!</p>
 <br>
 
-<p>    Hello, my name is <strong style="color: skyblue"> Joo Woon Kang</strong>. I graduated in <strong style="color: red">Lambda</strong><strong style="color:black"> School </strong> (Feburary 2020 ~ October 2020). As of now I have mastered the full stack. I have done a variety of projects that emulate a real life working environment. The reason why I want to be a software engineer is because I love solving problems and creating software where my imagination comes to life.
+<p>  My name is <strong style="color: skyblue"> Joo Woon Kang</strong>. I graduated in <strong style="color: red">Lambda</strong><strong style="color:black"> School </strong> (Feburary 2020 ~ October 2020). As of now I have mastered the full stack. I have done a variety of projects that emulate a real life working environment. The reason why I want to be a software engineer is because I love solving problems and creating software where my imagination comes to life.
 </p>
 <br/>
 Find me around the web:
