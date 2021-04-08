@@ -23,7 +23,7 @@ Hello <span>👋🏼👨‍💻</span>
 <li> 💬 Ask me about if I am interested in working with you or your company!</li>
 <li> 📫 How to reach me via <a target="_blank" href="https://www.linkedin.com/in/joowoonk/">LinkedIn</a> 📄</li> 
 <li> ⚡ Fun fact: mastered Calculus 1 & 2 in three to four months while working full time as an accountant!</li>
-<ul>
+</ul>
 <br/>
 Find me around the web:
 <ul>
