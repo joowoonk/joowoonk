@@ -2,8 +2,15 @@
 <!--
 **joowoonk/joowoonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
 
+
+
+
+
+
+<h1 style="font-weight: bold">
+Hello <span>👋🏼👨‍💻</span>
+</h1>
 - 🔭 I’m currently working on A Drop A Day version 2
 - 🌱 I’m currently learning Algorithm and Data Structure
 <!--- 👯 I’m looking to collaborate on 
@@ -11,12 +18,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about if I am interested in working with you or your company!
 - 📫 How to reach me via <a target="_blank" href="https://www.linkedin.com/in/joowoonk/">LinkedIn</a> 📄 </li>
 - ⚡ Fun fact: mastered Calculus 1 & 2 in three to four months while working full time as an accountant!
-
-
-
-<h1 style="font-weight: bold">
-Hello <span>👋🏼👨‍💻</span>
-</h1>
 
 <p>    Hello, my name is <strong style="color: skyblue"> Joo Woon Kang</strong>. I graduated in <strong style="color: red">Lambda</strong><strong style="color:black"> School </strong> (Feburary 2020 ~ October 2020). As of now I have mastered the full stack. I have done a variety of projects that emulate a real life working environment. The reason why I want to be a software engineer is because I love solving problems and creating software where my imagination comes to life.
 </p>
