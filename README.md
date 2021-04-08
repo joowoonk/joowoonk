@@ -15,13 +15,13 @@ Hello <span>👋🏼👨‍💻</span>
 </p>
 
 <br/>
-<p>- 🔭 I’m currently working on A Drop A Day version 2</p>
-<p>- 🌱 I’m currently learning Algorithm and Data Structure</p>
+<li>- 🔭 I’m currently working on A Drop A Day version 2</li>
+<li>- 🌱 I’m currently learning Algorithm and Data Structure</li>
 <!--- 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...-->
-<p>- 💬 Ask me about if I am interested in working with you or your company!</p>
-<p>- 📫 How to reach me via <a target="_blank" href="https://www.linkedin.com/in/joowoonk/">LinkedIn</a> 📄</p> 
-<p>- ⚡ Fun fact: mastered Calculus 1 & 2 in three to four months while working full time as an accountant!</p>
+<li>- 💬 Ask me about if I am interested in working with you or your company!</li>
+<li>- 📫 How to reach me via <a target="_blank" href="https://www.linkedin.com/in/joowoonk/">LinkedIn</a> 📄</li> 
+<li>- ⚡ Fun fact: mastered Calculus 1 & 2 in three to four months while working full time as an accountant!</li>
 
 <br/>
 Find me around the web:
