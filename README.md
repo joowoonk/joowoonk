@@ -27,7 +27,7 @@ Hello <span>👋🏼👨‍💻</span>
 <br/>
 Find me around the web:
 <ul>
-    <li>My portfolio: <a target="_blank" href="https://www.joowoonk.ga">joowoonk.ga</a>💻</li>
+    <li>My portfolio: <a target="_blank" href="https://joowoondev.vercel.app/">joowoondev.vercel.app</a>💻</li>
 <li>Follow me on Twitter: <a target="_blank" href="https://twitter.com/johnwhoprograms">
     @johnwhoprograms </a> 💙
     <li>LinkedIn Profile: <a target="_blank" href="https://www.linkedin.com/in/joowoonk/">@joowoonk</a> 📄 </li>
