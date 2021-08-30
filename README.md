@@ -11,8 +11,7 @@
 <h1 style="font-weight: bold">
 Hello <span>👋🏼👨‍💻</span>
 </h1>
-<p>  My name is <strong style="color: skyblue"> Joo Woon Kang</strong>. I graduated in <strong style="color: red">Lambda</strong><strong style="color:black"> School </strong> (Feburary 2020 ~ October 2020). As of now I have mastered the full stack. I have done a variety of projects that emulate a real life working environment. The reason why I want to be a software engineer is because I love solving problems and creating software where my imagination comes to life.
-</p>
+<p>My name is <strong style="color: skyblue"> Joo Woon Kang</strong>. I graduated in <strong style="color: red">Lambda</strong><strong style="color:black"> School </strong> (Feburary 2020 ~ October 2020). As of now, I've been working as a software engineer at Lowe's. I'm also trying to expanding my knowledge as trying to use different stacks. The reason why I am software engineer is because I love solving problems and creating software where my imagination comes to life with a team! You're always welcome to contact me anytime!✨</p>
 
 <br/>
 <ul>
