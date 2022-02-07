@@ -21,7 +21,7 @@ Hello <span>👋🏼👨‍💻</span>
 - 🤔 I’m looking for help with ...-->
 <li> 💬 Ask me about if I am interested in working with you or your company!</li>
 <li> 📫 How to reach me via <a target="_blank" href="https://www.linkedin.com/in/joowoonk/">LinkedIn</a> 📄</li> 
-<li> ⚡ Fun fact: mastered Calculus 1 & 2 in three to four months while working full time as an accountant!</li>
+<li> ⚡ Fun fact: mastered Calculus 1 & 2 in three to four months while working full time as an accountant! This is when I decided to be a software engineer</li>
 </ul>
 <br/>
 Find me around the web:
