@@ -15,8 +15,6 @@ Hello <span>👋🏼👨‍💻</span>
 
 <br/>
 <ul>
-<li> 🔭 I’m currently working on A Drop A Day version 2</li>
-<li> 🌱 I’m currently learning Algorithm and Data Structure</li>
 <!--- 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...-->
 <li> 💬 Ask me about if I am interested in working with you or your company!</li>
