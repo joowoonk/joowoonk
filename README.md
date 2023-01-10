@@ -24,9 +24,6 @@ Hello <span>👋🏼👨‍💻</span>
 <br/>
 Find me around the web:
 <ul>
-
-<li>Follow me on Twitter: <a target="_blank" href="https://twitter.com/jwkwhoprograms">
-    @jwkwhoprograms </a> 💙
     <li>LinkedIn Profile: <a target="_blank" href="https://www.linkedin.com/in/joowoonk/">@joowoonk</a> 📄 </li>
     <li>My Resume: <a target="_blank" href="https://drive.google.com/file/d/1SMfAylPnbsnbL_FfRlCC7QfGmS7ccZVG/view">Here</a> 🤺 </li>
 </ul>
